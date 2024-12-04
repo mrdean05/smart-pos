@@ -5,6 +5,10 @@ __Note - This is an ongoing project__
 ## Introduction
 This project describes the design and development of a battery-powered, two-layer PCB for a smart point-of-sale (POS) device. The smart point-of-sale device is intended to work with a barcode scanner, identifying items and products with barcode IDs. It comes with a TFT screen and a GUI displaying the product details, including the brand, type, weight, and cost.
 
+![image1](images/image1.png)
+![image2](images/image2.png)
+![image3](images/image4.png)
+
 ## Background of Project
 There are numerous small to medium enterprises in Ghana that lack an effective way to track their inventory and finances. The existing implementations are very bulky and expensive, with software that is difficult for an average small shop owner to navigate, and with outrageous monthly subscriptions. This smart point-of-sale (POS) device seeks to simplify and improve the existing solution by creating a quick-to-use, cheap, and portable device. It works with a mobile application that updates the user on every item bought in the shop, giving the user visibility over their shop without their physical presence.
 
