@@ -10,7 +10,7 @@ This project describes the design and development of a battery-powered, two-laye
 ![image3](images/image4.png)
 
 ## Background of Project
-There are numerous small to medium enterprises in Ghana that lack an effective way to track their inventory and finances. The existing implementations are very bulky and expensive, with software that is difficult for an average small shop owner to navigate, and with outrageous monthly subscriptions. This smart point-of-sale (POS) device seeks to simplify and improve the existing solution by creating a quick-to-use, cheap, and portable device. It works with a mobile application that updates the user on every item bought in the shop, giving the user visibility over their shop without their physical presence.
+There are numerous small to medium enterprises in Ghana that lack an effective way to track their inventory and finances. The existing implementations are very bulky and expensive, with software that is difficult for an average small shop owner to navigate, and with outrageous monthly subscriptions. This smart point-of-sale (POS) device seeks to simplify and improve the existing solution by creating a quick-to-use, cheap, and portable device. It works with a mobile application that updates the shop owner on every item bought in the shop, giving the shop owner visibility over their shop without their physical presence.
 
 ## Hardware and Circuit Design
 The PCB was design and developed using KiCad. It comprises of multiple ICs (micocontroller, convertor ICs, and others).
